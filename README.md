@@ -2,4 +2,5 @@
 
 ##  Trying it out just for fun. 
 
-###  Check out [GitKraken] at(https://www.gitkraken.com/)
+###  Check out [GitKraken](https://www.gitkraken.com/)
+
